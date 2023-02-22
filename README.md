@@ -1,4 +1,7 @@
-### Hi there 👋
+- Hi 👋 I'm Mihajarisoa from SAYNA. It's a digital school to learn all digital jobs with a good family spirit and game way.
+- I'm currently learning to code but I'm not a developper. 
+- I'm particularly interested in back-end web development. 
+- I expect to learn many things here for what I am aiming to be. 
 
 <!--
 **MihRaz/MihRaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
